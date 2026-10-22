@@ -1,0 +1,15 @@
+{
+  "name": "web-security-skills",
+  "version": "1.0.0",
+  "description": "40 个面向 AI Agent 的 Web 安全测试技能：信息收集、经典漏洞、绕过技巧、N-day 与报告生成。",
+  "author": {
+    "name": "WebSecuritySkills contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "web-security",
+    "penetration-testing",
+    "skills"
+  ]
+}

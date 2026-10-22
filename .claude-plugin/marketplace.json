@@ -1,0 +1,14 @@
+{
+  "name": "web-security-skills",
+  "description": "40 个面向 AI Agent 的 Web 安全测试技能。",
+  "owner": {
+    "name": "WebSecuritySkills contributors"
+  },
+  "plugins": [
+    {
+      "name": "web-security-skills",
+      "description": "信息收集、经典漏洞、绕过技巧、N-day 与报告生成。",
+      "source": "./"
+    }
+  ]
+}
