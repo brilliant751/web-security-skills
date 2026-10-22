@@ -17,7 +17,7 @@ metadata:
 | 文件 | 用途 |
 |---|---|
 | [主手册.md](references/主手册.md) | 主手册（正文保留原文） |
-| [API收集原文.md](references/API收集原文.md) | 附属手册 |
+| [API收集原文.md](references/API收集原文.md) | 原始资料（仅供溯源） |
 
 ## 上手顺序
 

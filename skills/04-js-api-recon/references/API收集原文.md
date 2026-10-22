@@ -6,6 +6,8 @@ description: >-
 
 # SKILL: API Recon and Docs — Endpoints, Schemas, and Version Surface
 
+> **原始资料，仅供溯源**。本文件保留上游英文原文；日常执行请以同目录的 [主手册.md](主手册.md) 为准。
+
 > **AI LOAD INSTRUCTION**: Use this skill first when the target is a REST, mobile, or GraphQL API and you need to enumerate endpoints, documentation, versions, and hidden surface area before exploitation.
 
 ## 1. PRIMARY GOALS
